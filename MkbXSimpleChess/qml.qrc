@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ChessSquare.qml</file>
+        <file>ChessPiece.qml</file>
+        <file>chessImages/BBishop.png</file>
+        <file>chessImages/BKing.png</file>
+        <file>chessImages/BKnight.png</file>
+        <file>chessImages/BPawn.png</file>
+        <file>chessImages/BQueen.png</file>
+        <file>chessImages/BRook.png</file>
+        <file>chessImages/WBishop.png</file>
+        <file>chessImages/WKing.png</file>
+        <file>chessImages/WKnight.png</file>
+        <file>chessImages/WPawn.png</file>
+        <file>chessImages/WQueen.png</file>
+        <file>chessImages/WRook.png</file>
+        <file>PromoClic.qml</file>
+        <file>chessImages/MkbX.png</file>
+        <file>Config.qml</file>
+        <file>ButtonCustZ.qml</file>
+        <file>chessImages/menuShow.png</file>
+        <file>chessImages/MkbXLogo.png</file>
+    </qresource>
+</RCC>
